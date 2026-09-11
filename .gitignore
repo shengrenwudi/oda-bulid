@@ -1,0 +1,15 @@
+# file
+*.pyc
+*.xml
+*.exe
+src/utils/debug_version.py
+
+# dir
+build
+data
+dist
+doc
+lib
+log
+models
+releases
